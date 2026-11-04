@@ -4,3 +4,5 @@ package zm.zuct.market;
 public interface StockMovement {
     int stockChange();
 }
+
+//By mwalula A chisanga  2420947
