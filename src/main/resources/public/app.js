@@ -69,3 +69,5 @@ $('cancel').addEventListener('click', () => $('product-form').reset());
 $('search').addEventListener('input',renderProducts);
 $('report-form').addEventListener('submit', async event => { event.preventDefault(); try { await report(); message('Report updated.'); } catch(e) { message(e.message,true); } });
 refresh().then(() => message('Ready. All amounts are in Zambian kwacha.')).catch(e => message(e.message,true));
+
+//by uchi chinyama
