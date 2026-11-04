@@ -80,9 +80,17 @@ The server binds only to loopback, checks Host and Origin, requires JSON writes,
 
 Stop the app and copy `data/inventory.json` to back it up. Restore only while stopped. Keep business records and the entire `data` folder out of GitHub; `.gitignore` excludes them. A filesystem or machine failure still needs backups; atomic replacement does not provide disaster recovery.
 
-## Group submission
+## Group members
 
-Create your group GitHub repository and push this source, README and `pom.xml`. Do not commit `target` or `data`. Each member must make and understand their own genuine contributions from their own GitHub account. Do not fabricate commit history. Add the real member names and student numbers before submission. Repository creation, publishing, lecturer approval, the Part 3 video, interviews and private peer ratings remain your group's responsibility.
+| Name | Student Number | Programme |
+|---|---:|---|
+| Faith Bwalya | 2420924 | Cyber Security |
+| Francis Banda | 2300842 | Cyber Security |
+| Mwalula Chisanga | 2420947 | Cyber Security |
+| Uchi Chinyama | 2420921 | Cyber Security |
+| Natasha Mutale | 2421007 | Cyber Security |
+
+
 
 ## References
 
