@@ -35,3 +35,5 @@ public class StockPurchase implements StockMovement {
     @Override public int stockChange() { return quantity; }
     public long totalCost() { return unitCost * quantity; }
 }
+
+// by mwalula A chisanga 2420947
