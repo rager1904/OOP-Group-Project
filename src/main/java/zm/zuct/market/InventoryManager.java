@@ -93,3 +93,4 @@ public final class InventoryManager implements AutoCloseable {
     }
     @Override public void close() throws IOException { if (lock != null && lock.isValid()) lock.release(); lockChannel.close(); }
 }
+//BY FAITH BWALYA
