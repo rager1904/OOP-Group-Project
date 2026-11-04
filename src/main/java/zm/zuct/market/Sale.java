@@ -40,3 +40,4 @@ public class Sale implements StockMovement {
     public long revenue() { return unitPrice * quantity; }
     public long cost() { return unitCost * quantity; }
 }
+//BY Natasha Mutale 2421007
